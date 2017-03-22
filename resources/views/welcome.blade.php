@@ -76,11 +76,19 @@
                     @endif
                 </div>
             @endif
-
+				
+			<div class="row">
+				<div class="col-md-12">
+					<div class="jumbotron">
+						<h1>Testing </h1>
+					</div>
+				</div>
+			</div>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
